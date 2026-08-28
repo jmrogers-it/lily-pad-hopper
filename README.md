@@ -50,4 +50,4 @@ browser, or serve the folder with any static file server.
 ---
 
 Made with ❤️ (and 🪰) using HTML5 canvas. No assets, no libraries — everything is
-drawn and synthesized in code. A sibling of [Poop Patrol](https://github.com/EnvoyPrototype/poop-patrol).
+drawn and synthesized in code.
